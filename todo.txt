@@ -1,5 +1,5 @@
 1. How about we make the skeleton of the website first
-2.
-3.
-4.
-5.
+2. Make html skeleton
+3. add css
+4. add js
+5. ad json
